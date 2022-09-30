@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tema2_FormatoTexto"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" Icon="assets/24.ico">
 	<Grid x:Name="Cursiva_CheckBox">
 		<CheckBox x:Name="Negrita_CheckBox" Content="Negrita" HorizontalAlignment="Left" Margin="96,51,0,0" VerticalAlignment="Top" Checked="Negrita_CheckBox_Checked" Unchecked="Negrita_Unchecked"/>
 		<CheckBox x:Name="Cursiva_CheckBox1" Content="Cursiva" HorizontalAlignment="Left" Margin="225,51,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked" Unchecked="Cursiva_Unchecked"/>
